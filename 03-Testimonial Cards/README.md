@@ -6,7 +6,7 @@ https://roadmap.sh/projects/testimonial-cards
 
 Demo:
 
-https://byroncarsa.github.io/HTML-Projects/01-Single-Page-CV/
+https://byroncarsa.github.io/CSS-Projects/03-Testimonial%20Cards/
 
 
 
